@@ -4,7 +4,7 @@
 
 FROM alpine:3.4
 
-MAINTAINER Onkar Kadam <onkar.kadam@guavus.com>
+MAINTAINER Onkar Kadam
 
 RUN apk add --no-cache collectd collectd-dev
 
